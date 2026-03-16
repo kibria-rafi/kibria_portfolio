@@ -78,10 +78,10 @@ export const education = [
   {
     id: 1,
     degree: 'B.Sc. in Computer Science & Engineering',
-    institution: 'Your University Name',  // ← Update this
-    duration: '2021 — Present',
-    location: 'Bangladesh',
-    description: 'Studying core CS fundamentals, algorithms, data structures, database systems, and software engineering. Active in research and extracurricular technical clubs.',
+    institution: 'Daffodil International University',
+    duration: '2022 — 2026',
+    location: 'Dhaka, Bangladesh',
+    description: 'Studying core Computer Science fundamentals including algorithms, data structures, database systems, software engineering, and machine learning. Actively involved in technical projects, programming activities, and university technology clubs.',
     courses: ['Data Structures & Algorithms', 'Database Systems', 'Machine Learning', 'Software Engineering', 'Computer Networks', 'Operating Systems'],
     icon: '🎓',
     color: 'from-primary-500 to-cyan-500',

@@ -77,5 +77,5 @@ export const stats = [
   { label: 'Years Experience', value: '3+', icon: '📅' },
   { label: 'Projects Completed', value: '15+', icon: '🚀' },
   { label: 'Social Media Audience', value: '135K+', icon: '👥' },
-  { label: 'GitHub Contributions', value: '500+', icon: '💻' },
+  { label: 'GitHub Contributions', value: '300+', icon: '💻' },
 ]
