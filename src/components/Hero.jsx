@@ -151,8 +151,9 @@ export default function Hero() {
           </motion.button>
 
           <motion.a
-            href="/resume.pdf"
-            download
+            href="https://drive.google.com/file/d/16Lye31aqLEBtugbgwVHXPD5wC65k-mIu/view?usp=drivesdk"
+            target="_blank"
+            rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="px-7 py-3.5 rounded-xl border border-cyan-500/40 text-cyan-300 bg-transparent font-semibold text-sm hover:border-cyan-400 hover:text-white hover:bg-cyan-500/10 transition-all duration-300 flex items-center gap-2"
