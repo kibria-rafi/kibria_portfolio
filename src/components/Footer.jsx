@@ -17,7 +17,6 @@ const SOCIALS = [
 const NAV_LINKS = [
   { label: 'About', id: 'about' },
   { label: 'Skills', id: 'skills' },
-  { label: 'Projects', id: 'projects' },
   { label: 'Experience', id: 'experience' },
   { label: 'Achievements', id: 'achievements' },
   { label: 'Contact', id: 'contact' },

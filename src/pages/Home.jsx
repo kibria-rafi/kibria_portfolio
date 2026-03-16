@@ -8,7 +8,6 @@ import Layout from '../layout/Layout'
 import Hero           from '../components/Hero'
 import About          from '../components/About'
 import TechnicalSkills from '../components/TechnicalSkills'
-import Projects       from '../components/Projects'
 import Experience     from '../components/Experience'
 import Achievements   from '../components/Achievements'
 import Contact        from '../components/Contact'
@@ -21,7 +20,6 @@ export default function Home() {
       <Hero />
       <About />
       <TechnicalSkills />
-      <Projects />
       <Experience />
       <Achievements />
       <Contact />

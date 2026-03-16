@@ -132,12 +132,12 @@ export default function Hero() {
 
         <motion.div variants={item} className="flex flex-wrap items-center justify-center gap-4 mb-12">
           <motion.button
-            onClick={() => scrollToSection('projects')}
+            onClick={() => scrollToSection('skills')}
             whileHover={{ scale: 1.05, boxShadow: '0 0 25px rgba(99,102,241,0.5)' }}
             whileTap={{ scale: 0.95 }}
             className="px-7 py-3.5 rounded-xl bg-gradient-to-r from-primary-600 to-violet-600 text-white font-semibold text-sm shadow-glow flex items-center gap-2"
           >
-            <span>View Projects</span>
+            <span>View Skills</span>
             <FiArrowDown size={16} className="rotate-[-45deg]" />
           </motion.button>
 
